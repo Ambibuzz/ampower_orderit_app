@@ -12,6 +12,18 @@ AmPower OrderIT App is a **Frappe application** that provides configuration opti
 
 ---
 
+## 🔗 Mobile App Features
+
+👉 You can explore the detailed features of the OrderIT App in our mobile app repository:  
+[AmPower OrderIT Mobile App](https://github.com/Ambibuzz/ampower_orderit_mobile_app)
+
+### Short Summary of Features
+
+**The OrderIT App simplifies B2B ordering with flexible product views, customer-specific pricing, real-time stock visibility, and seamless order management. It also offers role-based access, personalized features like wishlist and favorites, and easy sharing of sales orders.**
+
+---
+
+
 ## ⚙️ Configuration
 
 The app includes a configuration doctype:
