@@ -2,6 +2,8 @@
 
 AmPower OrderIT App is a **Frappe application** that provides configuration options to enable or disable the AmPower OrderIT Mobile App within your ERP system.
 
+This app acts as a **wrapper for the AmPower OrderIT Mobile App**, enabling you to manage its availability and integration from within your ERP instance.
+
 ---
 
 ## 🚀 Features
