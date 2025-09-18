@@ -28,7 +28,7 @@ AmPower OrderIT App is a **Frappe application** that provides configuration opti
 
 The app includes a configuration doctype:
 
-**Doctype Name:** `OrderIT Community Config`
+**Doctype Name:** `Ampower Orderit App`
 
 **Enable OrderIT** → *(Checkbox)*  
   When checked, the OrderIT App is enabled.  
