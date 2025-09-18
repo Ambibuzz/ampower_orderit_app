@@ -47,7 +47,7 @@ The app includes a configuration doctype:
 cd ~/frappe-bench
 
 # Get the app
-bench get-app https://github.com/Ambibuzz/ampower_orderit_app
+bench get-app https://github.com/Ambibuzz/ampower_orderit_app.git
 
 # Install the app on your site
 bench --site your-site-name install-app ampower_orderit_app
